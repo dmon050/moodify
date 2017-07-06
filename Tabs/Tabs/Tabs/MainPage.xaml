@@ -6,8 +6,8 @@
     x:Class="Tabs.MainPage">
     <NavigationPage Title="Information">
         <x:Arguments>
-            <local:AzureTables/>
+            <local:AzureTables />
         </x:Arguments>
     </NavigationPage>
-    <local:CustomVision/>
+    <local:CustomVision />
 </TabbedPage>

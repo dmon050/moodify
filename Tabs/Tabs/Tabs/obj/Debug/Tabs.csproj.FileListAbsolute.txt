@@ -11,7 +11,7 @@ C:\Users\dean_\Documents\GitHub\moodify\Tabs\Tabs\Tabs\bin\Debug\Xamarin.Forms.X
 C:\Users\dean_\Documents\GitHub\moodify\Tabs\Tabs\Tabs\obj\Debug\Tabs.csprojResolveAssemblyReference.cache
 C:\Users\dean_\Documents\GitHub\moodify\Tabs\Tabs\Tabs\obj\Debug\Tabs.MainPage.xaml.g.cs
 C:\Users\dean_\Documents\GitHub\moodify\Tabs\Tabs\Tabs\obj\Debug\Tabs.App.xaml.g.cs
-C:\Users\dean_\Documents\GitHub\moodify\Tabs\Tabs\Tabs\obj\Debug\Tabs.dll
-C:\Users\dean_\Documents\GitHub\moodify\Tabs\Tabs\Tabs\obj\Debug\Tabs.pdb
 C:\Users\dean_\Documents\GitHub\moodify\Tabs\Tabs\Tabs\obj\Debug\Tabs.AzureTables.xaml.g.cs
 C:\Users\dean_\Documents\GitHub\moodify\Tabs\Tabs\Tabs\obj\Debug\Tabs.CustomVision.xaml.g.cs
+C:\Users\dean_\Documents\GitHub\moodify\Tabs\Tabs\Tabs\obj\Debug\Tabs.dll
+C:\Users\dean_\Documents\GitHub\moodify\Tabs\Tabs\Tabs\obj\Debug\Tabs.pdb

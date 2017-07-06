@@ -7,11 +7,11 @@
   IgnorableNamespaces="uap mp">
 
   <Identity
-    Name="1a7c7439-56db-4660-b290-18995ee866d2"
+    Name="5bc249f5-fcb7-4fff-9b63-6273d0c944c1"
     Publisher="CN=dean_"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="1a7c7439-56db-4660-b290-18995ee866d2" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="5bc249f5-fcb7-4fff-9b63-6273d0c944c1" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
     <DisplayName>Tabs.UWP</DisplayName>
